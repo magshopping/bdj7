@@ -399,6 +399,7 @@ small{
 .footer-col-2 img{
     width: 180px;
     margin-bottom: 20px;
+    display: flex;
 }
 .footer-col-3, .footer-col-4{
     flex-basis: 12%;
